@@ -1,0 +1,81 @@
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.exe.config
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.exe
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.pdb
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csprojAssemblyReference.cache
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.Properties.Resources.resources
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csproj.GenerateResource.cache
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.exe
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.pdb
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.FrmGiris.resources
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.FirmaFormu.resources
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.IslemFormu.resources
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.SubeFormu.resources
+C:\Users\New Bilgisayar\Desktop\NYP Proje Ödevi\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.UrunFormu.resources
+C:\Users\ASUS\Downloads\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.FirmaFormu.resources
+C:\Users\ASUS\Downloads\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.FrmGiris.resources
+C:\Users\ASUS\Downloads\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.IslemFormu.resources
+C:\Users\ASUS\Downloads\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.Properties.Resources.resources
+C:\Users\ASUS\Downloads\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.SubeFormu.resources
+C:\Users\ASUS\Downloads\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.UrunFormu.resources
+C:\Users\ASUS\Downloads\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.exe
+C:\Users\ASUS\Downloads\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.pdb
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csprojAssemblyReference.cache
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.FirmaFormu.resources
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.FrmGiris.resources
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.IslemFormu.resources
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.Properties.Resources.resources
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.SubeFormu.resources
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.UrunFormu.resources
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csproj.GenerateResource.cache
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.exe
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.pdb
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.exe.config
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.exe
+C:\Users\New Bilgisayar\Desktop\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.pdb
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.exe.config
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.exe
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.pdb
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.FirmaFormu.resources
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.FrmGiris.resources
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.IslemFormu.resources
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.Properties.Resources.resources
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.SubeFormu.resources
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.UrunFormu.resources
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.exe
+C:\Users\ASUS\Downloads\NYP Tuba Ödevi - Kopya\NYP Proje Ödevi - Kopya\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.pdb
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.exe.config
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.exe
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.pdb
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csprojAssemblyReference.cache
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.FirmaFormu.resources
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.FrmGiris.resources
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.IslemFormu.resources
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.Properties.Resources.resources
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.SubeFormu.resources
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.UrunFormu.resources
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csproj.GenerateResource.cache
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.exe
+C:\Users\sekov\Downloads\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.pdb
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.exe.config
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.exe
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\bin\Debug\Market Zinciri Otomasyonu.pdb
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csprojAssemblyReference.cache
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.FrmGiris.resources
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.Properties.Resources.resources
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csproj.GenerateResource.cache
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.exe
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\obj\Debug\Market Zinciri Otomasyonu.pdb
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.frmFirmaForm.resources
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.frmIslemForm.resources
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.frmSubeForm.resources
+C:\Users\sekov\Desktop\Market Zinciri Otomasyonu\obj\Debug\Market_Zinciri_Otomasyonu.frmUrunForm.resources
